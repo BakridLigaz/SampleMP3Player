@@ -5,7 +5,7 @@
 перемотка, перелистывание, сохранение плейлиста и поиск по нему
 
 ###Использованные библиотеки
--[BasicPlayer 3.0] (https://github.com/whamtet/BasicPlayer)
+-[Javazoom.BasicPlayer 3.0] (https://github.com/whamtet/BasicPlayer)
 
 -[JTattoo 1.6.11](https://github.com/michael-hagen/JTattoo)
 
